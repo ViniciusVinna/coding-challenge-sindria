@@ -23,18 +23,46 @@
 ### ⭐ Opportunity
 
 > :loudspeaker: **Note:** I have been using my GitHub repositories to consolidate my knowledge and methods, as well as to conduct and validate my personal research on [Personal Knowledge Management](https://www.youtube.com/watch?v=nJ660t5ku9A&t=220s), [Skills Tree](https://www.youtube.com/watch?v=wsmEuHa1eL8), [Gamification](https://www.gamificationbook.com/), and to further develop my thesis at [FIAP](https://www.fiap.com.br/graduacao/bacharelado/sistemas-de-informacao/).
+>
+> :handshake: My interviewer, **José Baptista**, _gave me the freedom_ to suggest the scope, so...
+>
+> <img src="docs/images/bruce-buffer.png" align="left" alt="VAR" width="120" border="5px solid transparent" />
+>
+> ```
+> ██╗████████╗███████╗    ████████╗██╗███╗   ███╗███████╗██╗
+> ██║╚══██╔══╝██╔════╝    ╚══██╔══╝██║████╗ ████║██╔════╝██║
+> ██║   ██║   ███████╗       ██║   ██║██╔████╔██║█████╗  ██║
+> ██║   ██║   ╚════██║       ██║   ██║██║╚██╔╝██║██╔══╝  ╚═╝
+> ██║   ██║   ███████║       ██║   ██║██║ ╚═╝ ██║███████╗██╗
+> ╚═╝   ╚═╝   ╚══════╝       ╚═╝   ╚═╝╚═╝     ╚═╝╚══════╝╚═╝
+> ```
 
-- :handshake: My interviewer, **José Baptista**, _gave me the freedom_ to suggest the scope, so...
+## 🚀 The Hero Engineer's Journey
 
-<img src="docs/images/bruce-buffer.png" align="left" alt="VAR" width="120" border="5px solid transparent" />
+<div align="center">
+  <img src="docs/logos/zero-a-heroi.svg" align="center" width="600" alt="Zero a Herói" border="10px solid transparent" />
 
-```
-██╗████████╗███████╗    ████████╗██╗███╗   ███╗███████╗██╗
-██║╚══██╔══╝██╔════╝    ╚══██╔══╝██║████╗ ████║██╔════╝██║
-██║   ██║   ███████╗       ██║   ██║██╔████╔██║█████╗  ██║
-██║   ██║   ╚════██║       ██║   ██║██║╚██╔╝██║██╔══╝  ╚═╝
-██║   ██║   ███████║       ██║   ██║██║ ╚═╝ ██║███████╗██╗
-╚═╝   ╚═╝   ╚══════╝       ╚═╝   ╚═╝╚═╝     ╚═╝╚══════╝╚═╝
-```
+![T](https://img.shields.io/badge/ESRB-T-orange) ![1 to 2 Players](https://img.shields.io/badge/Players-1%20to%202-red) ![Online Game Optional](https://img.shields.io/badge/Online%20Game-Optional-green) ![Hire Vinna Optional](https://img.shields.io/badge/Hire%20Vinna-Optional-green)
 
-<img src="docs/logos/zero-a-heroi.svg" align="center" alt="Zero a Herói" border="5px solid transparent" />
+</div>
+
+<table align="center" style="border-collapse: collapse; background-color: transparent;">
+  <tr>
+    <td align="center">
+      <div>
+        <img alt="Bashman" src="docs/characters/vinna.jpg" height="150" border="40px solid transparent">
+        <br>
+        <a href="https://img.shields.io/badge/The%20Bashman%20Vinna-red">
+          <img src="https://img.shields.io/badge/The%20Bashman%20Vinna-red" alt="The Bashman Vinna">
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <img alt="Riddler" src="docs/characters/joao.jpg" height="150" border="40px solid transparent">
+      <br>
+      <a href="https://img.shields.io/badge/The%20Riddler%20Jose-black">
+        <img src="https://img.shields.io/badge/The%20Riddler%20Jose-black" alt="The Riddler Jose">
+      </a>
+    </td>
+  </tr>
+</table>
