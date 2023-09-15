@@ -24,7 +24,7 @@
 
 > :loudspeaker: **Note:** I have been using my GitHub repositories to consolidate my knowledge and methods, as well as to conduct and validate my personal research on [Personal Knowledge Management](https://www.youtube.com/watch?v=nJ660t5ku9A&t=220s), [Skills Tree](https://www.youtube.com/watch?v=wsmEuHa1eL8), [Gamification](https://www.gamificationbook.com/), and to further develop my thesis at [FIAP](https://www.fiap.com.br/graduacao/bacharelado/sistemas-de-informacao/).
 
-- :handshake: My interviewer, **José Baptista**, **gave me the freedom** to suggest the scope...
+- :handshake: My interviewer, **José Baptista**, _gave me the freedom_ to suggest the scope, so...
 
 <img src="docs/images/bruce-buffer.png" align="left" alt="VAR" width="120" border="5px solid transparent" />
 
@@ -36,3 +36,5 @@
 ██║   ██║   ███████║       ██║   ██║██║ ╚═╝ ██║███████╗██╗
 ╚═╝   ╚═╝   ╚══════╝       ╚═╝   ╚═╝╚═╝     ╚═╝╚══════╝╚═╝
 ```
+
+<img src="docs/logos/zero-a-heroi.svg" align="center" alt="Zero a Herói" border="5px solid transparent" />
